@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/robot/__init__.py
+src/robot.egg-info/PKG-INFO
+src/robot.egg-info/SOURCES.txt
+src/robot.egg-info/dependency_links.txt
+src/robot.egg-info/requires.txt
+src/robot.egg-info/top_level.txt
