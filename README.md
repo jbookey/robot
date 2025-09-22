@@ -1,3 +1,4 @@
 # robot
 Le Robot experiments
-Leader Port: /dev/tty.usbmodem5A680133411
+Follower Port: /dev/tty.usbmodem5A680133411
+Leader Port: /dev/tty.usbmodem5A680104371
